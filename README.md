@@ -3,7 +3,9 @@
 The below summary is a list of my past and present projects
 
 ## nc-news-frontend
+
 **hosted:** https://ph-nc-news-frontend-project.netlify.app/
+
 **github repo:** https://github.com/PeteHai/nc_news
 **tech stack:** react, JS
 **description:** a web based reddit inspired forum, using the backend API previously created (see "nc-news-backend" below)
