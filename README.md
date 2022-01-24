@@ -29,3 +29,12 @@ The technical highlight of this was integrating AWS photo recognition to allow a
 **description:**  This is a backend project that builds a reddit inspired news-forum api for the purpose of accessing application data programmatically.  
 **notes:**   Instructions in the ReadMe.  The user can access different endpoints and make GET/POST/DELETE requests  
 **next steps:** add / delete / edit user endpoints to allow for more integration with the frontend
+
+### interval timer mobile app
+
+**github repo:** https://github.com/PeteHai/interval-timer
+**tech stack:**  React Native
+**description:**  Builds an interval timer that accepts custom reps, sets and rest periods.  Future plans to integrate with a force-meter (how many KG the user is pulling) and have this display live on screen - climbing specific. 
+
+
+
